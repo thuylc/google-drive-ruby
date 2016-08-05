@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.homepage = 'https://github.com/gimite/google-drive-ruby'
   s.rubygems_version = '1.2.0'
   s.license = 'BSD-3-Clause'
-  s.required_ruby_version = '>= 2.0.0'
+  #s.required_ruby_version = '>= 2.0.0'
 
   s.files = ['README.md'] + Dir['lib/**/*']
   s.require_paths = ['lib']
